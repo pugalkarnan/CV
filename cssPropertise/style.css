@@ -1,0 +1,21 @@
+body{
+    background-color: #F9F5E7;
+    margin-left: 20%;
+    margin-right: 20%
+
+  
+}
+h1,h2,h3{
+    color: #A7727D;
+    font-family: 'Tangerine', serif;
+    font-size: 25px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+hr{
+    border:1px,none;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: #A7727D;
+}
